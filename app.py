@@ -11,7 +11,8 @@
 #   streamlit run app.py
 # https://semanadatascience.com/aula1/
 # da uma olhada https://www.youtube.com/watch?v=skpiLtEN3yk
-pip install plotly.express
+
+!pip install plotly.express
 import pandas as pd
 import streamlit as st
 import plotly.express as px
